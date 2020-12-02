@@ -1,0 +1,22 @@
+name: HuAo
+title: huao | huao-blog
+description: 站在巨人的肩上改变世界
+tags:
+  - 博客
+  - 模板
+  - 墨阳
+  - 主题
+  - netlify
+show_hero: true
+menu:
+  - title: 主页
+    url: /
+  - title: 关于
+    url: /about
+  - title: 私信
+    url: /contact
+  - title: 自由
+    url: /feed.xml
+email: 3047401843@qq.com|huao-hope@163.com
+disqus_username: disqus_username
+paginate: 1
