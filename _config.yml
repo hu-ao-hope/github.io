@@ -1,20 +1,20 @@
 # site settings
 title: HuAo
 subtitle: huao-blog
-email: 3047401843@qq.com | huao_hope@163.com
+email: 3047401843@qq.com 
 description: 站在巨人的肩上改变世界
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+# street_address: 1234 Somewhere Road
+city: WuHan
+# state: TN
+# zip_code: 55555
+country: China
+phone: 15926219478
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
+tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
