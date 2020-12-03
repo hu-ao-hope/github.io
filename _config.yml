@@ -4,8 +4,8 @@ subtitle: huao-blog
 email: 3047401843@qq.com 
 description: 站在巨人的肩上改变世界
 # baseurl: "/forty-jekyll-theme"  # the subpath of your site, e.g. /blog
-baseurl: "hu-ao-hope.github.io"  # the subpath of your site, e.g. /blog
-url:"hu-ao-hope/hu-ao-hope.github.io"  # the base hostname & protocol for your site
+baseurl: "https://huao-blog.foreverkd.life"  # the subpath of your site, e.g. /blog
+url:"huao-blog.foreverkd.life/2016/08/25/aliquam.html"  # the base hostname & protocol for your site
 author:
 city: WuHan
 country: China
