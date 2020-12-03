@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b620c20f-b019-4a09-92b3-abf2226c2629" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitlab-ci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.gitlab-ci.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.md" beforeDir="false" afterPath="$PROJECT_DIR$/404.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.md" beforeDir="false" afterPath="$PROJECT_DIR$/CONTRIBUTING.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/tiles.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/tiles.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/allposts.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/allposts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/landing.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/landing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-8-20-etiam.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-8-20-etiam.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-8-21-consequat.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-8-21-consequat.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-8-22-ipsum.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-8-22-ipsum.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-8-23-magna.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-8-23-magna.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-8-24-tempus.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-8-24-tempus.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-8-25-aliquam.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-8-25-aliquam.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/base/_page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/base/_page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/base/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/base/_typography.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/components/_box.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/components/_box.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/components/_button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/components/_button.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/components/_contact-method.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/components/_contact-method.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/components/_form.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/components/_form.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/components/_icon.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/components/_icon.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/components/_image.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/components/_image.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/components/_list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/components/_list.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/components/_section.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/components/_section.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/components/_spotlights.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/components/_spotlights.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/components/_table.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/components/_table.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/components/_tiles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/components/_tiles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/layout/_banner.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/layout/_banner.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/layout/_contact.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/layout/_contact.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/layout/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/layout/_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/layout/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/layout/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/layout/_main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/layout/_main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/layout/_menu.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/layout/_menu.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/layout/_wrapper.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/layout/_wrapper.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/libs/_functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/libs/_functions.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/libs/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/libs/_mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/libs/_skel.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/libs/_skel.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/libs/_vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/libs/_vars.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/all_posts.md" beforeDir="false" afterPath="$PROJECT_DIR$/all_posts.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/ie8.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/ie8.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/ie9.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/ie9.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/ie/.directory" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/ie/.directory" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/ie/backgroundsize.min.htc" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/ie/backgroundsize.min.htc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/ie/html5shiv.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/ie/html5shiv.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/ie/respond.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/ie/respond.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery.scrollex.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/jquery.scrollex.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery.scrolly.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/jquery.scrolly.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/skel.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/skel.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/util.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements.md" beforeDir="false" afterPath="$PROJECT_DIR$/elements.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forty_jekyll_theme.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/forty_jekyll_theme.gemspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generic.md" beforeDir="false" afterPath="$PROJECT_DIR$/generic.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing.md" beforeDir="false" afterPath="$PROJECT_DIR$/landing.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3333">
+              <caret line="101" column="72" selection-start-line="101" selection-start-column="72" selection-end-line="101" selection-end-column="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="21" column="84" selection-start-line="21" selection-start-column="84" selection-end-line="21" selection-end-column="84" />
+              <folding>
+                <element signature="n#style#0;n#p#0;n#h3#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/header.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="924">
+              <caret line="28" column="13" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="28" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/_sass/layout/_contact.scss" />
+        <option value="$PROJECT_DIR$/_sass/components/_section.scss" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_includes/footer.html" />
+        <option value="$PROJECT_DIR$/_layouts/home.html" />
+        <option value="$PROJECT_DIR$/_includes/header.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="177" />
+    <option name="y" value="32" />
+    <option name="width" value="1396" />
+    <option name="height" value="984" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hu-ao-hope.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hu-ao-hope.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hu-ao-hope.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hu-ao-hope.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name=".jekyll-cache" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hu-ao-hope.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hu-ao-hope.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name=".jekyll-cache" type="462c0819:PsiDirectoryNode" />
+              <item name="Jekyll" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hu-ao-hope.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hu-ao-hope.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name=".jekyll-cache" type="462c0819:PsiDirectoryNode" />
+              <item name="Jekyll" type="462c0819:PsiDirectoryNode" />
+              <item name="Cache" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hu-ao-hope.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hu-ao-hope.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hu-ao-hope.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hu-ao-hope.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.scopes" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b620c20f-b019-4a09-92b3-abf2226c2629" name="Default Changelist" comment="" />
+      <created>1606962145651</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606962145651</updated>
+      <workItem from="1606962147646" duration="1755000" />
+      <workItem from="1606963912671" duration="905000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2660000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959569" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_sass/components/_contact-method.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/layout/_menu.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="721">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="49230" selection-start-column="49230" selection-end-column="49230" />
+          <folding>
+            <element signature="e#32526#32938#2" expanded="true" />
+            <element signature="e#33088#33503#2" expanded="true" />
+            <element signature="e#42043#42409#2" expanded="true" />
+            <element signature="e#42805#43174#2" expanded="true" />
+            <element signature="e#54136#54496#2" expanded="true" />
+            <element signature="e#54533#54896#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/layout/_contact.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitlab-ci.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/layout/_banner.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/assets/css/ie9.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1107">
+          <caret line="111" column="9" selection-start-line="111" selection-start-column="9" selection-end-line="111" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="556">
+          <caret line="43" column="36" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/components/_section.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/ie9.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="101" column="11" selection-start-line="101" selection-start-column="11" selection-end-line="101" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/tiles.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3333">
+          <caret line="101" column="72" selection-start-line="101" selection-start-column="72" selection-end-line="101" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="21" column="84" selection-start-line="21" selection-start-column="84" selection-end-line="21" selection-end-column="84" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#h3#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="28" column="13" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
