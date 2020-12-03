@@ -1,15 +1,26 @@
 # site settings
 title: HuAo
 subtitle: huao-blog
+<<<<<<< HEAD
 email: 3047401843@qq.com
+=======
+email: 3047401843@qq.com 
+>>>>>>> 8dd4bff784fe858f1c32c119aa60aae3bd5661ad
 description: 站在巨人的肩上改变世界
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
+<<<<<<< HEAD
 #street_address: 1234 Somewhere Road
 city: WuHan
 #state: TN
 #zip_code: 55555
+=======
+# street_address: 1234 Somewhere Road
+city: WuHan
+# state: TN
+# zip_code: 55555
+>>>>>>> 8dd4bff784fe858f1c32c119aa60aae3bd5661ad
 country: China
 phone: 15926219478
 
