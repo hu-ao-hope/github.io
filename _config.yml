@@ -3,8 +3,8 @@ title: HuAo
 subtitle: huao-blog
 email: 3047401843@qq.com
 description: 站在巨人的肩上改变世界
-baseurl:   # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl: ""  # the subpath of your site, e.g. /blog
+url: ""# the base hostname & protocol for your site
 author:
 #street_address: 1234 Somewhere Road
 city: WuHan
